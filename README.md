@@ -1,6 +1,11 @@
 # wIgHelper
 
+You can download the app on the AppStore:
 [Download on the AppStore](https://apps.apple.com/de/app/wighelper/id1260686079)
+
+
+If you have any questions, problems, feature requests or anything else:
+[Report a bug/problem/issue](https://github.com/andre0707/wIgHelper/issues)
 
 
 ## Description
@@ -22,7 +27,7 @@ in-app purchase features:
 - offline calculation of three 6-digit numbers to coordinates and placing result and own position* on a map** (find reverse wherigo easily and offline)
 - action extension for calculation of three 6-digit numbers to coordinates of selected text (works in every app where you can select and share text with the system share menu). Calculated coordinates will automatically  copied to clipboard and you get feedback with notifications.
 - import/export personal entries (includes own document type .whpe)
-- preview media object files from a cartridge (.gwc file) as well as the completion code and other informations
+- preview media object files from a cartridge (.gwc file) as well as the completion code, texts, zones, cartridge source code and other information
 
 *Needs location access
 **Maps needs an internet connection to display the map
