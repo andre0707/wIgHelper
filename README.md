@@ -8,7 +8,7 @@ If you have any questions, problems, feature requests or anything else:
 [Report a bug/problem/issue](https://github.com/andre0707/wIgHelper/issues)
 
 
-Check out the [wiki](https://github.com/andre0707/wIgHelper/wiki) for details of the app
+Check out the [wiki](https://github.com/andre0707/wIgHelper/wiki) for details of the app. Available in German and English.
 
 
 ## Description
