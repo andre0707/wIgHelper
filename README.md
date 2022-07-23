@@ -8,6 +8,9 @@ If you have any questions, problems, feature requests or anything else:
 [Report a bug/problem/issue](https://github.com/andre0707/wIgHelper/issues)
 
 
+Check out the [wiki](https://github.com/andre0707/wIgHelper/wiki) for details of the app
+
+
 ## Description
 
 wIgHelper helps you to organize variables and values you got while playing Play Anywhere Wherigos. (A form of geocaching)
